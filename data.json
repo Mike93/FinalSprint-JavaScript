@@ -1,0 +1,41 @@
+[
+  {
+    "firstName": "Jon",
+    "lastName": "Jordans",
+    "age": 30,
+    "isMarried": true,
+    "favoriteColors": ["blue", "green", "orange"],
+    "address": {
+      "street": "100 Jon's Street",
+      "city": "Jonsville",
+      "province": "Jontario",
+      "postalCode": "J0N 1S9"
+    },
+    "children": [
+      {
+        "firstName": "Darryl",
+        "lastName": "Jordans",
+        "age": 9,
+        "likesSchool": true,
+        "address": {
+          "street": "100 Jon's Street",
+          "city": "Jonsville",
+          "province": "Jontario",
+          "postalCode": "J0N 1S9"
+        }
+      },
+      {
+        "firstName": "Han",
+        "lastName": "Jordans",
+        "age": 14,
+        "likesSchool": false,
+        "address": {
+          "street": "100 Jon's Street",
+          "city": "Jonsville",
+          "province": "Jontario",
+          "postalCode": "J0N 1S9"
+        }
+      }
+    ]
+  }
+]
